@@ -1,6 +1,6 @@
 <h1 align="center">Chairunnisa Mahadewi Budi Santosa is here at your service! ʕ ᵔᴥᵔ ʔ</h1>
 <h3 align="center">Hi, my name is Shasa & I am a second year Informatics student at Telkom University~</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif](https://giphy.com/stickers/SanrioKorea-sanrio-korea-kuromi-l2FSi4zPU5dnLyd7Q4)">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/l2FSi4zPU5dnLyd7Q4/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shasaamb&label=Profile%20views&color=0e75b6&style=flat" alt="shasaamb" /> </p>
 
