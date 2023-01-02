@@ -1,6 +1,6 @@
 <h1 align="center">Chairunnisa Mahadewi Budi Santosa is here at your service! ʕ ᵔᴥᵔ ʔ</h1>
 <h3 align="center">Hi, my name is Shasa & I am a second year Informatics student at Telkom University~</h3>
-<img align="right" alt="https://www.gifcen.com/wp-content/uploads/2021/10/kuromi-gif-5.gif">
+<img align="right" alt="[https://www.gifcen.com/wp-content/uploads/2021/10/kuromi-gif-5.gif](https://media.tenor.com/8eqkeUUk3Y0AAAAC/phone-photo.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shasaamb&label=Profile%20views&color=0e75b6&style=flat" alt="shasaamb" /> </p>
 
