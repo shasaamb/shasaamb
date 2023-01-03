@@ -1,5 +1,5 @@
-<h1 align="center">Chairunnisa Mahadewi Budi Santosa</h1>
-<h1 align="center">is here at your service! ʕ ᵔᴥᵔ ʔ</h1>
+<h1 align="center">Chairunnisa Mahadewi Budi Santosa 
+is here at your service! ʕ ᵔᴥᵔ ʔ</h1>
 <h3 align="center">Hi, my name is Shasa & I am a second year Informatics student at Telkom University~</h3>
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2021/10/kuromi-gif-23.gif">
 
