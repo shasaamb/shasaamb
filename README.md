@@ -12,7 +12,7 @@
 
 - 💌 Reach me via **chairunnisaambs@student.telkomuniversity.ac.id**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1B1C-pRFwb1roK-jmlh-kZu-3K9N_rLUB/view?usp=share_link](https://drive.google.com/file/d/1B1C-pRFwb1roK-jmlh-kZu-3K9N_rLUB/view?usp=share_link)](https://bit.ly/ChairunnisaCV)
+- 📄 Know about my experiences **https://bit.ly/ChairunnisaCV**
 
 - 🌟 Fun fact **I looked up for the most high-paying undergraduate and here I am lol**
 
